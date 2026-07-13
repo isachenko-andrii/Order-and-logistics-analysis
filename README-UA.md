@@ -41,7 +41,7 @@
   
 **Архітектура «Зірка»:** Спроектовано оптимальну модель даних, де центральні таблиці фактів (Orders, Order_details) з'єднані з таблицями вимірів (Customers, Employees, Shippers, Products, Categories, Calendar).  
   
-![DimDate_Calendar](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/img/ola_2.png) 
+![DimDate_Calendar](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/img/ola_3.png) 
   
 Етап 3. Розрахунки (DAX)
 Розроблено ряд калькульованих полів та складних мір для розрахунку ключових бізнес-метриків, що уміщують логіку:
