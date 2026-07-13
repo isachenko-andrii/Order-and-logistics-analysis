@@ -51,7 +51,7 @@
   
  - **Логістика:** IsLateDelivery (обчислюваний стовпець), % On-Time Deliveries, % Late Deliveries.  
   
- - **Обсяги:* Total Orders, Items in Order.  
+ - **Обсяги:** Total Orders, Items in Order.  
   
 **Етап 4. Візуалізація та розробка дашборду (Dashboard Development)**  
  
