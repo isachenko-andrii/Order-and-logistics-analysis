@@ -30,8 +30,10 @@
   
  - **Завантаження та очищення (Power Query):** Дані було завантажено з CSV та TXT файлів, виконано очищення, типізацію та корекцію імен таблиць для бізнес-користувачів
    
+  ![Loading and cleaning](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/img/ola_1.png)  
 
-Календар (DimDate): Створено окрему таблицю дат (Date table) за допомогою DAX-скрипту, що забезпечує коректну роботу інтелекту часу (time intelligence). Позначено як таблицю дат.
+  
+ - **Календар (DimDate):** Створено окрему таблицю дат (Date table) за допомогою DAX-скрипту, що забезпечує коректну роботу інтелекту часу (time intelligence). Позначено як таблицю дат.
 
 Етап 2. Моделювання даних (Data Modeling)
 Архітектура «Зірка»: Спроектовано оптимальну модель даних, де центральні таблиці фактів (Orders, Order_details) з'єднані з таблицями вимірів (Customers, Employees, Shippers, Products, Categories, Calendar).
