@@ -1,4 +1,14 @@
-
+![Project-logo](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/Project-logo.png)
+#### [EN](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README.md) | [UA](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/README-UA.md) Цей матеріал також доступний англійською мовою.
+---  
+<div align="center">  
+    
+## Аналіз замовлень та логістики<br>(Power BI Desktop)   
+  
+</div>  
+  
+## Опис проекту  
+    
 
 
 ## Структура проекту  
