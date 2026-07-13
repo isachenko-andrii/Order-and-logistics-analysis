@@ -44,7 +44,7 @@
   
 1. **Попередні вимоги:** Встановіть Power BI Desktop  
 2. **Завантаження:** Клонуйте цей репозиторій
-3. **Відкриття:** Відкрийте файл 'Order and logistics analysis.pbix' у Power BI Desktop
+3. **Відкриття:** Відкрийте файл `Order and logistics analysis.pbix` у Power BI Desktop
 4. **Дані:** За потреби — оновіть джерела даних у Power Query (залежно від того, де ви зберігаєте файли)  
   
 ## Контакти  
