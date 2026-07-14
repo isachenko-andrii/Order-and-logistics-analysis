@@ -47,12 +47,20 @@
   
 Розроблено ряд калькульованих полів та складних мір для розрахунку ключових бізнес-метриків, що уміщують логіку:
 
- - **Фінанси:** Total Sales (з урахуванням кількості, ціни та знижки), Total Gross Margin, Average Discount %.  
+ - **Фінанси:** Total Sales (з урахуванням кількості, ціни та знижки), Average Discount %.
+
+![Total Sales](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/img/ola_4.png) 
+     
+ - **Логістика:** IsLate (обчислюваний стовпець), % On-Time Deliveries, % Late Deliveries.
   
- - **Логістика:** IsLateDelivery (обчислюваний стовпець), % On-Time Deliveries, % Late Deliveries.  
+![IsLateDelivery](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/img/ola_5.png) 
+   
   
- - **Обсяги:** Total Orders, Items in Order.  
-  
+ - **Обсяги:** Total Orders, Items in Order.
+
+  `Total Orders =   
+  DISTINCTCOUNT(fact_orders[orderID])`  
+   
 **Етап 4. Візуалізація та розробка дашборду (Dashboard Development)**  
  
 Створено багатосторінковий інтерактивний звіт із професіональною візуалізацією.  
