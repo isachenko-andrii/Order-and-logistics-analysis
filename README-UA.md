@@ -68,18 +68,30 @@
 Ключові сторінки звіту:  
   
  - **Фінансовий огляд:** KPI-картки, тренд продажів, географія, ТОП-клієнти.  
-  
+
+![Financial review](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/img/ola_6.png)  
+   
  - **Логістичний аналіз:** Порівняння перевізників за % вчасної доставки та обсягами щороку.  
+
+![Logistics partners](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/img/ola_7.png)  
   
  - **HR-ефективність:** Результати роботи та рейтинг продажів менеджерів.  
+
+![Employee analysis](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/img/ola_8.png)  
   
  - **Деталізація (Drill-through):** Прихована сторінка з деталями замовлень для конкретного працівника.  
+
+![Order details](https://github.com/isachenko-andrii/Order-and-logistics-analysis/blob/main/img/ola_9.png)  
   
 **Етап 5.** Завантаження та публікація  
 
  - **Power BI Service:** Звіт опубліковано у хмару в робочу область «global sales workspace».  
   
- - **Інтеграція:** Підготовлено презентацію звітів у PowerPoint та експортовано статичні результати у вигляді слайдів.  
+ - **Інтеграція:** Підготовлено презентацію звітів у PowerPoint та експортовано статичні результати у вигляді слайдів.
+ 
+ - **Надано доступ відповідальним особам.
+
+## 
    
 ## Структура проекту  
   
